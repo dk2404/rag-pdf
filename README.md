@@ -20,7 +20,8 @@ This repository contains a Jupyter Notebook implementation for retrieving inform
 - Jupyter Notebook
 - PDFMiner (for PDF parsing)
 - Transformer-based models (e.g., Hugging Face's Transformers library)
+- FAISS (for vector database)
+- AWS S3 (for file storage)
 
 ## Contributing
 Contributions, bug reports, and feature requests are welcome. Please feel free to open issues or submit pull requests.
-
